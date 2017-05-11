@@ -34,7 +34,7 @@ import concesionario2.excepciones.ModeloNoValidoException;
  * </ol>
  * </ol>
  * 
- * @author MaríaLourdes
+ * @author Victoriano Sevillano Vega
  * 
  */
 public class Coche implements Serializable{
